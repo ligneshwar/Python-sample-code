@@ -13,7 +13,8 @@ Example:
 Then the output should be:
 1010
 
-<img width="1851" height="1022" alt="Screenshot 2026-09-23 134457" src="https://github.com/user-attachments/assets/6d9fc3d9-9ac9-464d-b31c-f19225cd53d3" />
+<img width="951" height="657" alt="image" src="https://github.com/user-attachments/assets/89a4f619-6b36-46b4-9a94-d16496603c54" />
+
 
 
 
@@ -27,7 +28,8 @@ letters and digits.
 Suppose the following input is supplied to the program:
 
 
-<img width="1242" height="871" alt="Screenshot 2026-09-23 141003" src="https://github.com/user-attachments/assets/b53bc51f-d010-47a9-a272-99cd5d020e88" />
+<img width="1218" height="660" alt="image" src="https://github.com/user-attachments/assets/2663fa09-6b61-4151-9514-30c9ca53fad6" />
+
 
 
 
@@ -38,7 +40,8 @@ Write a program which can compute the factorial of a given numbers.The
 results should be printed in a comma-separated sequence on a single
 line.
 
-<img width="1852" height="1025" alt="Screenshot 2026-09-23 134418" src="https://github.com/user-attachments/assets/218f23dd-6168-4dbf-87c1-8de013f8cc21" />
+<img width="1210" height="667" alt="image" src="https://github.com/user-attachments/assets/80667b62-fd79-4f00-9b65-098ea8466196" />
+
 
 
 
