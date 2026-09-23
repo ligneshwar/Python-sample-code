@@ -13,7 +13,8 @@ Example:
 Then the output should be:
 1010
 
-<img width="951" height="657" alt="image" src="https://github.com/user-attachments/assets/89a4f619-6b36-46b4-9a94-d16496603c54" />
+<img width="896" height="620" alt="image" src="https://github.com/user-attachments/assets/cc8d9821-a964-4244-8a39-8045fa63e27b" />
+
 
 
 
