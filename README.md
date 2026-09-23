@@ -9,10 +9,11 @@ sequence.
 Example:
 0100,0011,1010,1001
 Then the output should be:
+1010
 
 <img width="1851" height="1022" alt="Screenshot 2026-09-23 134457" src="https://github.com/user-attachments/assets/6d9fc3d9-9ac9-464d-b31c-f19225cd53d3" />
 
-1010
+
 
 
 
