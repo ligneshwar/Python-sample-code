@@ -33,6 +33,7 @@ Suppose the following input is supplied to the program:
 Write a program which can compute the factorial of a given numbers.The
 results should be printed in a comma-separated sequence on a single
 line.
+
 <img width="1852" height="1025" alt="image" src="https://github.com/user-attachments/assets/3decd277-4ce5-4f3a-a0ba-1166ae6a8e26" />
 
 
