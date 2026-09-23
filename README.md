@@ -11,8 +11,7 @@ Example:
 Then the output should be:
 1010
 
-<img width="1850" height="1028" alt="image" src="https://github.com/user-attachments/assets/876ae5bb-cf93-45a1-8802-e1d15fcf58ad" />
-
+<img width="1242" height="871" alt="image" src="https://github.com/user-attachments/assets/70c747ba-6dbf-40a1-9ab0-a31a15bc66d4" />
 
 
 
